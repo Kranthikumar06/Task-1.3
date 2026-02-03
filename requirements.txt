@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy 
+matplotlib
+dotenv
+mysql-connector-python
+datetime
+hashlib
