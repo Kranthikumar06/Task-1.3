@@ -1,7 +1,6 @@
 streamlit
 pandas
-numpy 
+numpy
 matplotlib
-dotenv
+python-dotenv
 mysql-connector-python
-datetime
